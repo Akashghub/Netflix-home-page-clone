@@ -1,0 +1,25 @@
+
+body {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+/* .showcase {
+  
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+.bg{
+  position: relative;
+  opacity: 40%
+  
+}
+.fg{
+  position: absolute;
+}
